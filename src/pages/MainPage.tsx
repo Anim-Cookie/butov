@@ -100,7 +100,7 @@ export const MainPage: React.FC = () => {
   };
 
   return (
-    <div style={{ backgroundColor: '#008080', minHeight: '100vh', position: 'relative', overflow: 'hidden', fontFamily: '"MS Sans Serif", Arial', userSelect: 'none' }}>
+    <div style={{ backgroundColor: '#008080', minHeight: '100%', position: 'relative', overflow: 'hidden', fontFamily: '"MS Sans Serif", Arial', userSelect: 'none' }}>
       
       <div style={{ display: 'flex', flexDirection: 'column', gap: '25px', padding: '20px', width: '90px' }}>
 
